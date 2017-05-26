@@ -18,6 +18,8 @@ class ViewController: NSViewController {
 
     override var representedObject: Any? {
         didSet {
+            //comment
+            
         // Update the view, if already loaded.
         }
     }
